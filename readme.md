@@ -1,0 +1,1 @@
+A browser that uses form validation in Javascript.
